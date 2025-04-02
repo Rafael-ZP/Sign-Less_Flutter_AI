@@ -1,0 +1,12 @@
+speechrecognition
+transformers
+torch
+numpy
+pandas
+scipy
+nltk
+tensorflow
+pytorch
+gtts
+flask
+flask-cors
