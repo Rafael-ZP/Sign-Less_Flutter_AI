@@ -36,7 +36,7 @@
 ```bash
 # Clone the repository
 git clone https://github.com/Rafael-ZP/Sign-Less_Flutter_AI
-cd Project-SIGN-LESS
+cd Sign-Less_Flutter_AI
 
 # Install dependencies
 pip install -r requirements.txt
